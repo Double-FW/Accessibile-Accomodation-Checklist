@@ -1,17 +1,17 @@
-# Accessibility Checklist for Accommodation
+# Accessible Accommodation Checklist
 
-This repository contains a practical accessibility checklist for the design and delivery of inclusive accommodation for actors and other visiting professionals. The checklist is focused on creating environments that are physically accessible, sensory-aware, and cognitively inclusive.
+This repository contains a practical checklist and planning reference for designing, reviewing, and commissioning inclusive accommodation for actors and other visiting professionals.
 
-The document is intended for venue operators, production teams, accommodation providers, and designers who want to plan, commission, and review accessible accommodation before opening.
+The checklist is intended for venue operators, production teams, accommodation providers, designers, access leads, and commissioning teams who need to plan accessible stays that are usable in practice, not just compliant on paper.
 
 ## Purpose
 
-The checklist supports a complete accessible journey:
+The project supports a complete accessible journey:
 
 - understanding the site
 - reaching the destination
 - using the room independently
-- getting support when needed
+- obtaining support when needed
 
 It addresses the three core access themes used throughout the checklist:
 
@@ -19,27 +19,17 @@ It addresses the three core access themes used throughout the checklist:
 - Non-visual / sensory access (N)
 - Cognitive / neuroinclusive access (C)
 
-## Contents
+## Main document
 
-The main guidance is in [Checklist.md](Checklist.md).
+The full checklist is in [Accomodation_Checklist.md](Accomodation_Checklist.md).
 
-The checklist is organized around the following sections:
-
-1. Knowing where you are
-2. The route to where you want to get to
-3. The rooms
-4. Assistive technology, alarms and commissioning
-5. Useful resources
-
-## What this checklist covers
-
-The checklist includes requirements for:
+This checklist covers:
 
 - step-free routes and accessible circulation
-- wide doors and wheelchair manoeuvring space
+- doors, turning space, and wheelchair manoeuvring
 - accessible bathrooms and transfer layouts
 - quiet and lower-stimulation routes
-- high-contrast and consistent wayfinding
+- high-contrast, consistent, and legible wayfinding
 - tactile, visual, and audio information
 - emergency alarms and accessible evacuation planning
 - assistive technology and accessible media equipment
@@ -47,13 +37,26 @@ The checklist includes requirements for:
 
 ## Recommended use
 
-This resource is best used as a design and review tool during planning, briefing, and commissioning. It is particularly useful when:
+This resource is best used as a design, review, and briefing tool during planning, commissioning, handover, and operational review. It is particularly relevant when:
 
 - designing or refurbishing accommodation
 - reviewing accessibility during project stages
-- creating a brief for contractors or architects
+- creating a brief for contractors, architects, or suppliers
 - checking accessibility requirements before opening or handover
 - running walkthroughs with disabled and neurodivergent users
+- recording decisions, evidence, and residual barriers
+
+## Key principles
+
+The checklist is grounded in the idea that accessibility is not achieved by a single installation or a completed box-check. Accommodation must work for the real world, including the full journey between arrival, room use, support, and emergency response.
+
+The project adopts these principles:
+
+- involve disabled and neurodivergent people in defining needs and testing outcomes
+- treat accommodation as a lived experience, not only a physical specification
+- distinguish source requirements, project-specific needs, and recommendations
+- record evidence, barriers, and unresolved decisions clearly
+- avoid presenting the checklist as a compliance certificate or substitute for competent technical review
 
 ## Standards and guidance referenced
 
@@ -65,9 +68,10 @@ The checklist references UK-focused guidance and standards, including:
 - PAS 6463: Design for the Mind
 - related inclusive design and accessibility resources
 
-## Repository files
+## Repository contents
 
-- [Checklist.md](Checklist.md) — the main accessibility checklist
+- [Accomodation_Checklist.md](Accomodation_Checklist.md) — the main accessibility checklist and design requirements
+- [README.md](README.md) — repository overview and guidance
 - [LICENSE](LICENSE) — MIT license
 
 ## License
@@ -76,8 +80,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
-This repository is a documentation-focused resource. Contributions are welcome if they improve the checklist, add useful references, or clarify accessibility guidance.
+This repository is a documentation-focused resource. Contributions are welcome if they improve the checklist, add useful references, clarify accessibility guidance, or document lessons from real-world accommodation reviews.
 
 ## Notes
 
-This project is intended to support inclusive design practice and accessible accommodation planning. It should be used alongside relevant local regulations, design standards, and professional advice for specific projects.
+This project is intended to support inclusive design practice and accessible accommodation planning. It should be used alongside relevant local regulations, design standards, operational policies, and competent professional advice.
+
+Where requirements, building conditions, or user needs are unclear or conflicting, the responsible lead should seek a competent human decision and record the unresolved item explicitly.
