@@ -1,8 +1,8 @@
 # Accessible Accommodation Checklist
 
-This repository contains a practical checklist and planning reference for designing, reviewing, and commissioning inclusive accommodation for actors and other visiting professionals.
+This repository contains a practical checklist and planning reference for designing, reviewing, and commissioning inclusive accommodation.
 
-The checklist is intended for venue operators, production teams, accommodation providers, designers, access leads, and commissioning teams who need to plan accessible stays that are usable in practice, not just compliant on paper.
+The checklist is intended for venue operators, production teams, accommodation providers, hotel or student accomodation designers, access leads, and commissioning teams who need to plan accessible stays that are usable in practice, not just compliant on paper.
 
 ## Purpose
 
