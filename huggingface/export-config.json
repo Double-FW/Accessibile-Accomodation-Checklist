@@ -1,0 +1,21 @@
+{
+  "source_repository": "Double-FW/Accessibile-Accomodation-Checklist",
+  "destination_dataset": "GarethFW/Designing_Accessible_Accommodation",
+  "source_files": [
+    "AGENTS.md",
+    "Accomodation_Checklist.md",
+    "LICENSE",
+    "NOTICE.md",
+    "README.md",
+    "Related_Double_FW_Guidance.md",
+    "Terminology_Alignment.md"
+  ],
+  "document_files": [
+    "README.md",
+    "AGENTS.md",
+    "Terminology_Alignment.md",
+    "Related_Double_FW_Guidance.md",
+    "NOTICE.md"
+  ],
+  "approved_license_sha256": "718328364da5d7ba8e2fe2b00e16126f46714ef2d2e9d16b04cf2706d48142f1"
+}
